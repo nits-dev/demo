@@ -9,3 +9,4 @@ public interface PalindromeRepository extends JpaRepository<Palindrome, Long>{
 	Palindrome getPalindromeById(long palindromeId);
 
 }
+

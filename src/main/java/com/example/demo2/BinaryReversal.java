@@ -31,3 +31,4 @@ public class BinaryReversal {
         System.out.println("Final value is: " + Integer.parseInt(stringBuilder.toString(), 2));
 	}	
 }
+
